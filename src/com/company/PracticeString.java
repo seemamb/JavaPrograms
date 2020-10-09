@@ -44,7 +44,7 @@ public class PracticeString {
 
     public void useOfRegex(){
 
-        String textToSearch = "Text67 test";
+        String textToSearch = "Text67 testing branch";
         String regex = "[a-zA-Z0-9]+";
         Pattern p = Pattern.compile(regex);
 
