@@ -83,6 +83,7 @@ public class PracticeString {
         System.out.println(s2 == s3);
     }
 
+
     public void splitExample(){
 
         String str = "geekss@for@geekss";
@@ -90,6 +91,12 @@ public class PracticeString {
 
         for (String a : arrOfStr)
             System.out.println(a);
+
+
+}
+    public void dummyMethod(){
+        System.out.println("Dummy method");
+
     }
 }
 
