@@ -82,4 +82,8 @@ public class PracticeString {
 
         System.out.println(s2 == s3);
     }
+
+    public void dummyMethod(){
+        System.out.println("Dummy method");
+    }
 }
